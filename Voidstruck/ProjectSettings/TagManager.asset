@@ -8,14 +8,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - level
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - player
+  - aoe
+  - attack
+  - Enemy
+  - enemyAttack
   - 
   - 
   - 
